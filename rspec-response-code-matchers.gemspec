@@ -26,7 +26,7 @@ Gem::Specification.new do |s|
   s.rdoc_options = ["--charset=UTF-8"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.3.1}
-  s.summary = %q{TODO}
+  s.summary = %q{custom spec matcher to check http response codes}
   s.test_files = [
     "spec/spec_helper.rb",
     "spec/rspec_response_code_matchers_spec.rb"

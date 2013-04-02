@@ -5,7 +5,7 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "rspec-response-code-matchers"
-    gem.summary = %Q{TODO}
+    gem.summary = %Q{custom spec matcher to check http response codes}
     gem.email = "hiroe.orz@gmail.com"
     gem.homepage = "http://github.com/hiroeorz/rspec-response-code-matchers"
     gem.authors = ["hiroeorz"]
